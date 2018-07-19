@@ -23,9 +23,8 @@ Credits:
 		Unsplash (unsplash.com)
 
 	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+		Font Awesome (fontawesome.io)
 
 	Other:
 		jQuery (jquery.com)
-		Misc. Sass functions (@HugoGiraudel)
-		Skel (skel.io)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
